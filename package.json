@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-boilerplate",
+  "name": "autocomplete-fontParts",
   "main": "./lib/main",
   "version": "0.2.0",
   "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",

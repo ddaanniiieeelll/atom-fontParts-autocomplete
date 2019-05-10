@@ -1,8 +1,8 @@
 # fontParts autocomplete for Atom
 
-Use [this gist](https://gist.github.com/RafalBuchner/5affdfafc76785c637ea7c5d2a035787) of @RafalBuchner to run python scripts from Atom execute them inside Robofont
+Use [this gist](https://gist.github.com/RafalBuchner/5affdfafc76785c637ea7c5d2a035787) of [RafalBuchner](https://github.com/RafalBuchner) to run python scripts from Atom execute them inside Robofont
 
-Based on @connordavenport's [Sublime-Completions](https://github.com/connordavenport/Sublime-Completions-) I made an autocomplete provider for Atom.
+Based on [connordavenport's](https://github.com/connordavenport) [Sublime-Completions](https://github.com/connordavenport/Sublime-Completions-) I made an autocomplete provider for Atom.
 
 Since this is not an official Atom-package you can install it like this:
 

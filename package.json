@@ -1,15 +1,14 @@
 {
-  "name": "autocomplete-fontParts",
+  "name": "fontParts-autocomplete",
   "main": "./lib/main",
   "version": "0.2.0",
-  "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",
+  "description": "Custom autocomplete provider for Atom.",
   "keywords": [
     "autocomplete",
-    "provider",
-    "boilerplate"
+    "provider"
   ],
   "repository": "https://github.com/ddaanniiieeelll/atom-fontParts-autocomplete",
-  "author": "Daniel Weiand",
+  "author": "ddaanniiieeelll",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"

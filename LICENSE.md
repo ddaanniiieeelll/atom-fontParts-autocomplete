@@ -1,4 +1,4 @@
-Copyright (c) 2017 Will Boyd
+Copyright (c) 2019 ddaanniiieeelll
 
 This software is released under the MIT license: http://opensource.org/licenses/MIT
 

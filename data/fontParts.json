@@ -14,6 +14,7 @@
 	{"text": "components", "description": "components", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
 	{"text": "contour", "description": "contour", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
 	{"text": "contours", "description": "contours", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
+	{"text": "current", "description": "current", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
 	{"text": "data", "description": "data", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
 	{"text": "defaultLayer", "description": "defaultLayer", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
 	{"text": "features", "description": "features", "label": "fontParts", "descriptionMoreURL": "https://fontparts.readthedocs.io/en/stable/objectref/index.html"},
